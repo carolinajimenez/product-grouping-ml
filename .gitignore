@@ -3,3 +3,4 @@ __pycache__/
 
 # DATASET
 *.csv
+*.npy
